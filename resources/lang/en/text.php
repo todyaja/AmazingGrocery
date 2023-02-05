@@ -1,0 +1,22 @@
+<?php
+return [
+    'catchphrase' => 'Find and buy your groceries here!',
+    'login' => 'Login',
+    'logout' => 'Logout',
+    'register' => 'Register',
+    'already_have_account' => 'Already have an account ?',
+    'not_a_member' => 'Not a member ?',
+    'first_name' => 'First Name',
+    'last_name' => 'Last Name',
+    'role' => 'Role',
+    'gender' => 'Gender',
+    'display_picture' => 'Display Picture',
+    'confirm_password' => 'Confirm Password',
+    'password' => 'Password',
+    'cart' => 'Cart',
+    'detail' => 'Detail',
+    'profile' => 'Profile',
+    'account_management' => 'Account Management',
+    'delete' => 'Delete',
+    'logout_success' => 'Logout Success',
+];

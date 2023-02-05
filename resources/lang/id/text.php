@@ -1,0 +1,22 @@
+<?php
+return [
+    'catchphrase' => 'Temukan dan beli barang barang anda disini!',
+    'login' => 'Masuk',
+    'register' => 'Registrasi',
+    'logout' => 'Keluar dari akun',
+    'already_have_account' => 'Sudah ada akun ?',
+    'not_a_member' => 'Bukan member ?',
+    'first_name' => 'Nama depan',
+    'last_name' => 'Nama belakang',
+    'role' => 'Peran',
+    'gender' => 'Jenis Kelamin',
+    'display_picture' => 'Foto profil',
+    'confirm_password' => 'Konfirmasi kata sandi',
+    'password' => 'Kata sandi',
+    'cart' => 'Keranjang',
+    'detail' => 'Detil',
+    'profile' => 'Profil',
+    'account_management' => 'Pengelolaan Akun',
+    'delete' => 'Hapus',
+    'logout_success' => 'Logout Sukses',
+];
